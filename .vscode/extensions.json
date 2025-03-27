@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "redhat.java",
+        "ms-vscode.vscode-gradle",
+        "ms-python.python"
+    ]
+}
